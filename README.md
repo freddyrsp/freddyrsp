@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @freddyrsp
+- 👋 Hi, I’m @Freddy Sánchez
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python for beginner 
 - 💞️ I’m looking to collaborate on ...
