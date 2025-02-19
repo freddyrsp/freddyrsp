@@ -5,7 +5,7 @@
 ## Sobre mi
 
 - ⭐ Contador ⭐ 
-- ✏️ Analista de Datos Financieros
+- ✏️ Analista de Datos
   
 <!---
 freddyrsp/freddyrsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
