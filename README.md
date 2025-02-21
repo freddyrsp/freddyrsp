@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Freddy Sánchez</a> 👋</h1>
+<h1 align="center">👋 Hola, soy <a href="https://aristi.dev">Freddy Sánchez</a> 👋</h1>
 </div>
 
 ## Sobre mi
