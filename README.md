@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">👋 Hola, soy <a href="https://aristi.dev">Freddy Sánchez</a> 👋</h1>
-<p>Soy un contador y analista financieros con experiencia en preparación de estados financieros, plan de viabilidad económico financiero, </p> 
+<p>Soy contador y analista financiero con experiencia en preparación de estados financieros y planes de viabilidad económico financiero</p> 
 <p>Aquí puedes encontrar algunos de mis proyectos y trabajos más destacados.</p>
 </div>
 
