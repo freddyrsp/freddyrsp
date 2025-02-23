@@ -11,7 +11,7 @@ me siento comodo con la tecnología por lo que utilizo las herramientas disponib
 Excel VBA y Python  para preparar, procesar, analizar los datos, comunicar los hallazgos y ofrecer recomendaciones.
 
 ## Proyectos
-- [Preparación de Estados Financieros](#)
+- [[Preparación de Estados Financieros](https://drive.google.com/file/d/1sNQ2j9dhORDvobaPHJS_5evamonsF5WT/view?usp=sharing)](#)
 - [Proyecto 2](#)
 - [Proyecto 3](#)
 
