@@ -14,4 +14,4 @@ Soy contador público certificado con varios años de experiencia supervisando l
 ## Contacto
 
 - Email: lic.freddysanchez@gmail.com
-- LinkedIn: [Tu Perfil](https://www.linkedin.com/in/freddysanchezaguero)
+- LinkedIn: [Freddysanchezaguero](https://www.linkedin.com/in/freddysanchezaguero)
