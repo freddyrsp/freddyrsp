@@ -12,10 +12,8 @@ Tableu, Power BI, Power Query, Excel VBA y Python  para preparar, procesar, anal
 ofrecer recomendaciones.</p>
 
 ## Proyectos
-- [Preparación de Estados Financieros](https://drive.google.com/file/d/1sNQ2j9dhORDvobaPHJS_5evamonsF5WT/view?usp=sharing)
-  <p>Este proyecto  consistió en la recopilación de datos, revisión y verificación de las politicas contables aplicadas, 
-  realización de ajustes contables necesarios, elaboración de los principales estados financieros (BG, GyP, FE, y MovP), 
-  y la Presentación y analisis del desempeño financiero y salud económica de la empresa.</p>
+- [Informes Financieros Automatizados](#)
+  <p>Este proyecto consistió en el desarrollo de una aplicación en Excel VBA que permite automatizar la extracción, transformación, carga de datos, para luego generar los estados financieros (BG, GyP, FE) en pdf y envio a los destinatarios interesados mediante gmail.</p>
 - [Proyecto 2](#)
 - [Proyecto 3](#)
 
