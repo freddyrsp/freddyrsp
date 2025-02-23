@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">👋 Hola, soy Freddy Sánchez 👋</h1>
-<h5 align="center">Contador - Analista Financiero</h5>
+<h3 align="center">Contador - Analista Financiero</h3>
 </div>
 
 ## Acerca de Mí
