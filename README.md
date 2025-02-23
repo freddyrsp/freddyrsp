@@ -3,12 +3,13 @@
 </div>
 
 ## Acerca de Mí
-Contador público certificado con experiencia supervisando las actividades financieras de las empresas. 
+<p>Contador público certificado con experiencia supervisando las actividades financieras de las empresas.</p>
 
 ## Entre mis competencias claves
-Se encuentran la realización de pronósticos financieros, análisis de datos financieros y creación de informes financieros, 
-me siento comodo con la tecnología por lo que utilizo las herramientas disponibles como Tableu, Power BI, Power Query, 
-Excel VBA y Python  para preparar, procesar, analizar los datos, comunicar los hallazgos y ofrecer recomendaciones.
+<p>Se encuentran la realización de pronósticos financieros, análisis de datos financieros y creación de informes financieros, 
+me siento comodo con la tecnología disponible para el analisis de datos por lo que utilizo las herramientas disponibles como 
+Tableu, Power BI, Power Query, Excel VBA y Python  para preparar, procesar, analizar los datos, comunicar los hallazgos y 
+ofrecer recomendaciones.</p>
 
 ## Proyectos
 - [Preparación de Estados Financieros](https://drive.google.com/file/d/1sNQ2j9dhORDvobaPHJS_5evamonsF5WT/view?usp=sharing)
