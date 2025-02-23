@@ -14,7 +14,7 @@ Excel VBA y Python  para preparar, procesar, analizar los datos, comunicar los h
 - [Preparación de Estados Financieros](https://drive.google.com/file/d/1sNQ2j9dhORDvobaPHJS_5evamonsF5WT/view?usp=sharing)
   <p>Este proyecto  consistió en la recopilación de datos, revisión y verificación de las politicas contables aplicadas, 
   realización de ajustes contables necesarios, elaboración de los principales estados financieros (BG, GyP, FE, y MovP), 
-  y la Presentación y analisis del desempeño financiero y salud económica de la empresa</p>
+  y la Presentación y analisis del desempeño financiero y salud económica de la empresa.</p>
 - [Proyecto 2](#)
 - [Proyecto 3](#)
 
