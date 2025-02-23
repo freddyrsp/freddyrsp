@@ -12,6 +12,8 @@ Excel VBA y Python  para preparar, procesar, analizar los datos, comunicar los h
 
 ## Proyectos
 - [Preparación de Estados Financieros](https://drive.google.com/file/d/1sNQ2j9dhORDvobaPHJS_5evamonsF5WT/view?usp=sharing)
+  <p>Este trabajo implicón la recopilación de datos, realización de ajustes contables, eloborar los principales estados financiero 
+  BG, GyP, FE, y MovPatrimonio, revisión y verificación y la Presentación y analisis</p>
 - [Proyecto 2](#)
 - [Proyecto 3](#)
 
