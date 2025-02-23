@@ -19,7 +19,7 @@ ofrecer recomendaciones.</p>
 <p>Este proyecto consistió en el desarrollo de un modelo de prónostico financiero para predecir los ingresos mensuales de una empresa basándose en los datos historicos. Herramientas utilizada Excel VBA para el tratamiento de los datos y Tableau para las visualizaciones.</p>
 
 - [Análisís de Sensibilidad y Escenarios](#)
-p>Este proyecto consistió en el análisis de sensibilidad para evaluar cómo cambia los resultados financieros bajo diferentes escenarios como cambio de precios y costos. Herramientas utilizadas Python y Power BI para las visualizaciones.</p>
+<p>Este proyecto consistió en el análisis de sensibilidad para evaluar cómo cambia los resultados financieros bajo diferentes escenarios como cambio de precios y costos. Herramientas utilizadas Python y Power BI para las visualizaciones.</p>
 
 ## Contacto
 - Email: lic.freddysanchez@gmail.com
