@@ -14,8 +14,10 @@ ofrecer recomendaciones.</p>
 ## Proyectos
 - [Informes Financieros Automatizados](#)
 <p>Este proyecto consistió en el desarrollo de una aplicación que permite automatizar la extracción, transformación, carga de datos, para luego generar los estados financieros (BG, GyP, FE) en pdf y envio a los destinatarios interesados mediante gmail. Herramienta utilizada Excel VBA.</p>
+
 - [Pronósticos Financieros y Análisis de Series Temporales](#)
 <p>Este proyecto consistió en el desarrollo de un modelo de prónostico financiero para predecir los ingresos mensuales de una empresa basándose en los datos historicos. Herramientas utilizada Excel VBA para el tratamiento de los datos y Tableau para las visualizaciones.</p>
+
 - [Proyecto 3](#)
 
 ## Contacto
