@@ -6,7 +6,7 @@
 ## About Me
 <p>Certified Public Accountant with experience overseeing the financial activities of companies.</p>
 
-## Entre mis competencias claves
+## Key Competencies
 <p>These include financial forecasting, financial data analysis, and financial reporting,
 I am comfortable with the technology available for data analysis so I use the tools available such as
 Tableu, Power BI, Power Query, Excel VBA, and Python to prepare, process, analyze data, communicate findings, and
