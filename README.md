@@ -3,7 +3,7 @@
 <h3 align="center">Accountant - Financial Analyst</h3>
 </div>
 
-## Acerca de Mí
+## About Me
 <p>Certified Public Accountant with experience overseeing the financial activities of companies.</p>
 
 ## Entre mis competencias claves
