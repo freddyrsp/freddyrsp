@@ -1,10 +1,5 @@
 ![Black Modern Vlogger YouTube Banner](https://github.com/user-attachments/assets/00a52c1e-923b-47d3-9f2f-2a20dfa578a6)
 
-
-
-
-
-
 <div align="center">
 <h1 align="center">👋 Hello, I'm Freddy Sánchez 👋</h1>
 <h3 align="center">Accountant - Financial Analyst</h3>
