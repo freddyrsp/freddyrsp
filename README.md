@@ -14,7 +14,7 @@ Tableu, Power BI, Power Query, Excel VBA, and Python to prepare, process, analyz
 offer recommendations.</p>
 
 ## Projects
-- [Automated Financial Reporting](#)
+- [Automated Financial Reporting](https://github.com/freddyrsp/Excel-VBA-Financial-Report-Automation/tree/main)
 <p>This project consisted of the development of an application that allows automating the extraction, transformation, and loading of data, and then generating financial statements (BS,P&L,CF) in pdf and sending them to interested recipients via gmail. Tool used Excel VBA.</p>
 
 - [Financial Forecasting and Time Series Analysis](#)
