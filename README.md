@@ -15,7 +15,7 @@ offer recommendations.</p>
 
 ## Projects
 - [Automated Financial Reporting](#)
-<p>This project consisted of the development of an application that allows automating the extraction, transformation, and loading of data, and then generating financial statements (BG,, FE) in pdf and sending them to interested recipients via gmail. Tool used Excel VBA.</p>
+<p>This project consisted of the development of an application that allows automating the extraction, transformation, and loading of data, and then generating financial statements (BS,P&L,CF) in pdf and sending them to interested recipients via gmail. Tool used Excel VBA.</p>
 
 - [Financial Forecasting and Time Series Analysis](#)
 <p>This project consisted of the development of a financial forecast model to predict a company's monthly revenue based on historical data. Tools used Excel VBA for data processing and Tableau for visualizations.</p>
