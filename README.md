@@ -20,9 +20,12 @@ offer recommendations.</p>
 - [Financial Forecasting and Time Series Analysis](#)
 <p>This project consisted of the development of a financial forecast model to predict a company's monthly revenue based on historical data. Tools used Excel VBA for data processing and Tableau for visualizations.</p>
 
+<p>Construction</p>
+
 - [Sensitivity and Scenario Analysis](#)
 <p>This project consisted of sensitivity analysis to evaluate how financial results change under different scenarios such as price and cost changes. Tools used Python and Power BI for visualizations.</p>
 
+<p>Construction</p>
 ## Contact me
 - Email: lic.freddysanchez@gmail.com
 - LinkedIn: [Freddy Sánchez](https://www.linkedin.com/in/freddysanchezaguero)
